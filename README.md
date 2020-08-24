@@ -1,3 +1,3 @@
 # dailyCodingProblem
 
-Solutions to problems on: www.dailycodingproblem.com
+Solutions to problems from: www.dailycodingproblem.com
